@@ -55,7 +55,7 @@ function Selection (): React.ReactElement {
           icon='sign-in-alt'
           isDisabled={!extrinsic}
           isUnsigned
-          label={t<string>('Submit Unsigned_kcyy')}
+          label={t<string>('Submit Unsigned')}
           withSpinner
         />
         <TxButton
